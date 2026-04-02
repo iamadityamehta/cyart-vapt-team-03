@@ -5,6 +5,12 @@ This repository presents a comprehensive Vulnerability Assessment and Penetratio
 
 ---
 
+## 📌 Internship Context
+
+This task was completed as a part of my Vulnerability Assessment and Penetration Testing (VAPT) Internship at Cyart Technologies in March 2026.
+
+---
+
 ## 🎯 Objectives
 - Perform end-to-end security assessment
 - Identify vulnerabilities across multiple layers
